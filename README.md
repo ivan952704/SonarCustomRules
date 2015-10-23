@@ -1,0 +1,2 @@
+# SonarCustomRules
+Sonar Custom Rules
